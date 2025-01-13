@@ -20,12 +20,6 @@ I'm a Full-Stack Developer. This is the place where I opensource stuff and break
 
 ---
 
-## Fun Fact
-
-I'm a big fan of **EMINEM**
-
----
-
 <a href="https://shiftlojik.co.zw" alt="https://shiftlojik.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Tinashe%20Chatunga&color=000000"></a>
 
 I'm always open to new ideas and opportunities. You can learn more about me on my [website](https://shiftlojik.co.zw) or [LinkedIn](https://www.linkedin.com/in/tinashe-chatunga/) or reach out to me directly at [chatungaflexy@gmail.com](mailto:chatungaflexy@gmail.com)
